@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PollyHannah
 - 📑 I’m currently doing a PhD and am interested in the application of bioinformatics to inform aquatic biosecurity policy in Australia
-- 👩🏼‍🏫 At the minute i'm learning the bioinformatic-basics!
-- 📫 Reach me via pollyhannaford@gmail.com
+- 📫 Reach me via polly.hannaford@anu.edu.au
 - 😊 Pronouns: she/her
 
 <!---
